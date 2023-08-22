@@ -8,11 +8,11 @@
 		<version>3.1.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>vitor.lima.fatec</groupId>
-	<artifactId>projeto-springboot20232</artifactId>
+	<groupId>br.gov.sp.fatec</groupId>
+	<artifactId>springboot3labiv</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>projeto-springboot20232</name>
-	<description>Sistema para acompanhamento de aula e teste</description>
+	<name>springboot3labiv</name>
+	<description>Project for Spring Boot 3</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
